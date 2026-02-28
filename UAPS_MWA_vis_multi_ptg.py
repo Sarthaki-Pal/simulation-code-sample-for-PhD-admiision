@@ -1,6 +1,6 @@
 # This code generates an all-sky map, and generates visibilties for multiple pointings which are listed in a file
 # The file containing the paths of the fits are passed in argv[2]
-# changed on 27.12.23 Asif & Shouvik
+
 
 import numpy as np
 import healpy as hp
