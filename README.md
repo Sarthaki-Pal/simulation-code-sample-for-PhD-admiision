@@ -1,1 +1,1 @@
-This is the code sample of my previous work 
+The FITS file is taken from the terminal command. The central frequency, number of polarisations, number of channels, channel width, Declination and the baseline are read from the input FITS file. These baselines are saved in a numpy array called bln. This baseline file along with the sky pixel arrays for all realisations are given as input to the vis_gen.py function
